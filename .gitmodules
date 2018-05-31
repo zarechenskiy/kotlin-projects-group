@@ -1,0 +1,3 @@
+[submodule "jclasslib"]
+	path = jclasslib
+	url = https://github.com/ingokegel/jclasslib
