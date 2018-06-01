@@ -4,3 +4,6 @@
 [submodule "hamkrest"]
 	path = hamkrest
 	url = https://github.com/npryce/hamkrest
+[submodule "klaxon"]
+	path = klaxon
+	url = https://github.com/cbeust/klaxon
