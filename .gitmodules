@@ -1,3 +1,6 @@
 [submodule "jclasslib"]
 	path = jclasslib
 	url = https://github.com/ingokegel/jclasslib
+[submodule "hamkrest"]
+	path = hamkrest
+	url = https://github.com/npryce/hamkrest
